@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "description": "A thief who enters dreams to steal secrets gets a chance to redeem himself with one final mission."
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9.0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+    "description": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos."
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "rating": 8.6,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+    "description": "A team of explorers travel through a wormhole in search of a new home for humanity."
+  },
+  {
+    "id": 4,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3NjAtNDQ0ZC00ZjQ0LTk1ZTAtNmU5MDE2ZjBiZjE1XkEyXkFqcGc@._V1_.jpg",
+    "description": "A computer hacker learns about the true nature of reality and his role in the war against its controllers."
+  },
+  {
+    "id": 5,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": "Action",
+    "rating": 8.4,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODk4Nl5BMl5BanBnXkFtZTgwODE4Nzk1NzM@._V1_.jpg",
+    "description": "After the devastating events of Infinity War, the Avengers assemble once more to undo Thanos' actions."
+  },
+  {
+    "id": 6,
+    "title": "Gladiator",
+    "year": 2000,
+    "genre": "Drama",
+    "rating": 8.5,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDZiNTU3NmQtYjNhZi00ZTkxLWJkNzktZTZiY2RlYzViM2QxXkEyXkFqcGc@._V1_.jpg",
+    "description": "A betrayed Roman general fights his way through the gladiatorial arena to seek vengeance."
+  },
+  {
+    "id": 7,
+    "title": "Titanic",
+    "year": 1997,
+    "genre": "Romance",
+    "rating": 7.9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
+    "description": "A young couple from different social classes fall in love aboard the ill-fated Titanic."
+  },
+  {
+    "id": 8,
+    "title": "Joker",
+    "year": 2019,
+    "genre": "Drama",
+    "rating": 8.4,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmUyOWQxNDUtOTk4ZS00ZDE1LTk5ZTMtMDg4Njg1M2I0N2IxXkEyXkFqcGc@._V1_.jpg",
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck embarks on a downward spiral that leads to chaos."
+  },
+  {
+    "id": 9,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzQ5NTM1M15BMl5BanBnXkFtZTgwNTU0NjM5NDE@._V1_.jpg",
+    "description": "The story of a simple man who witnesses and influences some of the most defining moments of the 20th century."
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Fantasy",
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwODMxNzYxNl5BMl5BanBnXkFtZTcwNDI0OTQyMQ@@._V1_.jpg",
+    "description": "A young hobbit, Frodo, embarks on a perilous journey to destroy the One Ring and save Middle-earth."
+  }
+]
