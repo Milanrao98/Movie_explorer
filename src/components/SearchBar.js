@@ -1,21 +1,14 @@
-import React, { useRef } from "react";
+import React from "react";
 
 export default function SearchBar({ query, setQuery }) {
-  const inputRef = useRef();
-
-  const handleSearch = () => {
-    setQuery(inputRef.current.value);
-  };
-
   return (
     <div className="search-bar">
-      <input 
-        ref={inputRef} 
-        type="text" 
-        placeholder="Search movies..." 
-        defaultValue={query}
+      <input
+        type="text"
+        placeholder="Search movies..."
+        value={query} // controlled input
+        onChange={(e) => setQuery(e.target.value)} // update query on typing
       />
-      <button onClick={handleSearch}>Search</button>
     </div>
   );
 }
